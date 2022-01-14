@@ -1,2 +1,2 @@
-# english
-Notas del mi aprendizaje en inglés 
+# English Notes
+Notes of my English learning
