@@ -77,11 +77,26 @@ Ex.
 ## Many and Much
 ### Many (Cuántos)
 It can used in paragraphs or questions that include
-countable things, ex:
+countable substantives, ex:
 
 - How many brothers do you have? 
 - How many hours do you work? 
 - I wanna buy many houses
+
+Una forma de identificar los sustantivos 
+contables es verificando que se puedan 
+pluralizar o ante ponerles números, ej: 
+brothers, apples, lemons, seven apples, two dollars.
+
+La palabra **many** es acompañada por lo general
+con:
+
+- How: para hacer preguntas
+- Many: para preguntar o responder positiva o negativamente
+- A lot of: para preguntar o responder afirmativa o negativamente 
+- Some: para preguntar o responder afirmativamente 
+- Any: para preguntar o responder negativamente 
+- A few / few (I have few friends in this town) 
 
 ### Much (Cuánto) 
 It can used in paragraphs or questions that include
@@ -89,6 +104,25 @@ umcoutable things, ex:
 
 - How much is it? (Cúanto cuesta esto)
 - How much sugar do you need? 
+
+Una forma de identificar los sustantivos 
+incontables es verificando que no se puedan 
+pluralizar o ante ponerles números, ej: 
+sugar, tea, soup, honey, cheese, etc.
+
+Por lo general los estos sustantivos están
+relacionados con líquidos, comidas y otros más 
+específicos. 
+
+La palabra **much** es acompañada por lo general
+con:
+
+- How: para hacer preguntas (how much) 
+- Much: para preguntar o responder negativamente (I don't wanna much sugar) 
+- A lot of: para preguntar o responder afirmativa o negativamente 
+- Some: para preguntar o responder afirmativamente 
+- Any: para preguntar o responder negativamente 
+- A little / little (I have a little money) 
 
 ## Whose (¿de quién?) 
 Ex:
