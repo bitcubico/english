@@ -89,3 +89,29 @@ umcoutable things, ex:
 
 - How much is it? (Cúanto cuesta esto)
 - How much sugar do you need? 
+
+## Whose (¿de quién?) 
+Ex:
+- Whose money is this? 
+- Whose books are this? 
+- Whose is this jacket? 
+
+## Exclamations
+Ex:
+
+Spanish|English 
+---|---
+¡Qué día! | What a day! 
+¡Qué chica! | What a girl! 
+¡Qué coincidencia! | What a coincidence! 
+¡Qué linda chica! | What a beautiful girl! 
+¡Qué coincidencia tan agradable! | What a nice coincidence! 
+
+When an exclamation is composed with only 
+adjectives, we must use the *how* word. Ex:
+
+Spanish|English 
+---|---
+¡Qué hwrmoso! | How beautiful!
+¡Qué grosero! | How rude!
+¡Qué interesante | How interesting! 
