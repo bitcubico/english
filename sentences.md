@@ -17,6 +17,7 @@ Bien hecho | Well done
 ## C
 Spanish | English 
 --- | --- 
+¿Cómo has estado? | How have you been? 
 Como sea o de cualquier forma | Whatever
 Conectarse a Internet | To go online - Do I need **TO GO ONLINE** to play the game?
 Cuentame el chisme | Tell me the goosip
