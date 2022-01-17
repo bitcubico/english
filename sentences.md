@@ -40,6 +40,7 @@ En camino | On the way
 En ninguna parte | In nowhere 
 Es bueno saberlo | It's goot to know it
 Es bueno saber eso | It's good to know that
+Es bueno verte | It's good to see you
 Ese es nuestro precio más bajo | That's our lower 👇 price
 Eso no es gracioso | That's not funny
 Espera ahí | Hang in there
@@ -59,6 +60,7 @@ Guárdate tu sarcasmo | Keep your sarcasm to yourself
 ## H
 Spanish | English
 --- | --- 
+Ha pasado tanto tiempo | It's been so long 
 Hoy en día | Nowadays 
 
 ---
