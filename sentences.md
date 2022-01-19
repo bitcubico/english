@@ -123,6 +123,7 @@ Sosten esto por favor | Hold on this, please
 ## T
 Spanish | English 
 --- | --- 
+Te debo una | I own you one
 Te he extrañado | I've missed you
 Te perdono | I forgive you
 Tengo sueño o estoy soñoliento | I'm sleepy
