@@ -30,6 +30,7 @@ Spanish | English
 !Dejen de burlarse de mí! | Stop making fun of me! 
 Depende de ti | It's up to you 
 De vez en cuando | Once in a while - From time to time
+¿Donde has estado? | Where have you been? 
 
 ---
 ## E
@@ -88,6 +89,7 @@ Nos vemos luego - Hasta luego | See you then
 No estoy pensando en nada | I'm not thinking about anything 
 No importa | It don't matter
 No me gusta | I don't like - I dislike - I can't stand 
+No me puedo quejar | Can't complain 
 
 ---
 ## P
