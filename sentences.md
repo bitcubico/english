@@ -141,6 +141,7 @@ Voy a cepillarme los dientes | I'm going to brush my teeth
 Spanish | English 
 --- | --- 
 Una cita | A date
+Un millón de gracias | Thanks a million 
 
 ## V
 Spanish | English 
