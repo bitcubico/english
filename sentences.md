@@ -5,6 +5,7 @@ Spanish | English
 --- | --- 
 Adivina que | Guess what
 Así se hace  | There you go
+Aumentar mi salario | Increase my earnings
 
 ---
 ## B
