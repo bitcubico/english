@@ -103,6 +103,7 @@ Concerje | Janitor
 Cortina | Curtain
 Corbata 👔 | Tie | Wich **TIE** do you prefer?
 Cosa | Thing
+Costoso | Expensive or Pticey
 Creo | I think 🤔 
 Criado en casa | Home grown
 Cuchara 🥄 | Spoon 🥄 
