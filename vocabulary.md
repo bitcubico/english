@@ -289,7 +289,8 @@ Nadie | No one | **NO ONE** is available righ now
 Nevera | Fridge
 Nieta | Granddaughter 
 Nieto | Grandson
-Nietos | Grandchildren 
+Nietos | Grandchildren
+On importa | No matter 
 
 ---
 ## O
