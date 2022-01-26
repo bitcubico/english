@@ -265,6 +265,7 @@ Mas bajo | Shorter | Is she **shorter** than you?
 Mas Delgado | Thinner | He's **THINNER** than his brother 
 Mas gorda | Fatter | This bird is **FATTER** than the other bird
 Mas grande | Bigger | John's foots are **BIGGER** than Paul's feet
+Mas o menos | Kind of or Sort of
 Mas viejo o mayor | Older | Which brother is **older**? 
 Mantequilla | Butter 
 Matrimonio | Marriage 
