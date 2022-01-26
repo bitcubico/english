@@ -154,6 +154,7 @@ Enchufe 🔌 | Electrical outlet
 Encontrar | Find, Finded 
 Enfermedad | Illness 
 Enfermedades | Illnesses 
+Enfermero(a) | Nurse
 Enfrente de | In front of | There is a car **in front of** the house
 Enojado 😤 | Angry 😡 
 Entrada | Entrance | I can't find the **entrance**
@@ -268,6 +269,7 @@ Mas viejo o mayor | Older | Which brother is **older**?
 Mantequilla | Butter 
 Matrimonio | Marriage 
 Mayormente | Mainly | The rain in Spain falls **mainly** in the plain 
+Mercar o Hacer compras del mercado | Grocery shopping | I neet to do **grocery shopping**
 Mejor | Nicer | This phone is **nicer** than your phone
 Mejorando | Improving | I'm **improving** my English 
 Me gustaría | I Would like | **I WOULD LIKE** a cup of tea, please
