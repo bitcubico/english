@@ -9,6 +9,7 @@ Abrázame | Hold me | I'll miss you, **HOLD ME**, please
 Aburrid@ | Bored
 Aburridor 🙄 | Boring | The baseball game is really **boring**
 Acumulador | Pack rat or Hoarder
+Adicto al trabajo | Workaholic
 Adivinar | Guess | **Guess** what 
 Adultez | Adulthood
 Ajo | Garlic
