@@ -277,6 +277,7 @@ Mejorando | Improving | I'm **improving** my English
 Me gustaría | I Would like | **I WOULD LIKE** a cup of tea, please
 Mesero | Waiter | Where's the **weiter**? 
 Mesera | Weitress | Which **weitress** is friendlier 
+Mirador | Viewpoint | My favorite place in Medellín are the **viewpoints**
 Mochila 🎒 o Morral | Backpack | He put her **BACKPACK** on the floor
 Mostrador | Counter | My passport is here on the **COUNTER**
 Muebles | Furnitures
