@@ -211,6 +211,7 @@ Helado | Ice cream | My wife love the ice creams
 Herido 🤕 | Hurt, Injury | I'm **hurt** - I have an **injury**
 Hermanos | Brothers | Siblings (cuando son e
 Hilo | Thread
+Hipermeable | Waterproof | I need a **waterproff** camera 📸 
 Horario | Schedule 
 Horrible | Awful | The actors are **awful** I want to leave
 Hubo | There had
