@@ -311,6 +311,7 @@ Pasar tiempo | Spend time | Do you often **spend time** in your garden?
 Peaje | Road toll | In Colombia there are many **road tolls** between every city
 Pecho | Chest
 Pelar | Peel | **Peel** the fruit
+Pelaje | Fur | He's allergic to **fur**
 Pestañas | Eyelashes 
 Pepino 🥒 | Cucumber 
 Picante 🌶 | Spicy 
