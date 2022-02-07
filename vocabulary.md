@@ -138,6 +138,7 @@ Dijo | Told | He **TOLD** me that this app is hosted in it
 Dios mio | Gosh | Oh **gosh**
 Dirección Comercial | Bussines address 
 Discutir | Argue | My roommate and I **argue** a lot
+Disfraz | Disguise, Custome 
 Disponible | Available | Excuse me, are you **AVAILABLE**?
 Dolor | Pain | I have a pain in my leg
 Dolor de cabeza | Headache | Does he take anything for his **headache**? 
