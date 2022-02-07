@@ -368,7 +368,8 @@ Rumberos | Party animals
 
 Spanish | English | Example
 --- | --- | ---
-Sabor | Taste | These things **taste** good
+Saborear | Taste | These things **taste** good
+Sabores | Flavors
 Saca Puntas | Sharpener
 Sala | Living room | She needs furniture for her **LIVING ROOM**
 Salado | Salty | The fish in Ecuador is more **saltier**
