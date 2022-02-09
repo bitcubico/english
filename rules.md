@@ -128,11 +128,11 @@ con:
 
 ## In and On (Prepositions of time) 
 
-### On
+### On (Specifical time) 
 Use **on** before days of the week, dates, and holidays.
 
-### In
-Use **in** before times of day, months, seasons, and years.
+### In (General time) 
+Use **in** before times of day(morning, afternoon, evening), months, seasons, and years.
 
 e.g.:
 - It's **on** December 20th
@@ -142,6 +142,8 @@ e.g.:
 - It's **in** December
 - It's **in** the winter
 - It's **on** (early/late) 2022
+- I was born **on** January 1st at 6 AM in the
+morning in 2000
 
 ## Whose (¿de quién?) 
 e.g.:
