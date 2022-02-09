@@ -32,7 +32,9 @@ Suena "de" cuando la siguiente palabra es una vocal y
 #### Rules with to be
 **Subject + to be + verb + ing + complement**
 
-If the verb ends with **consonant + vowel + consonant**, put a extra **n**, except when the last word is a **w**. For example:
+If the verb ends with **consonant + vowel + consonant**, 
+put a extra **n**, except when the last word is a **w**. 
+For example:
 
 Ex:
 - Swim 🏊 -> Swimning
@@ -124,8 +126,25 @@ con:
 - Any: para preguntar o responder negativamente 
 - A little / little (I have a little money) 
 
+## In and On (Prepositions of time) 
+
+### On
+Use **on** before days of the week, dates, and holidays.
+
+### In
+Use **in** before times of day, months, seasons, and years.
+
+e.g.:
+- It's **on** December 20th
+- It's **on** Christmas Eve
+- It's **on** Monday
+- It's **in** the morning/afternoon/avening
+- It's **in** December
+- It's **in** the winter
+- It's **on** (early/late) 2022
+
 ## Whose (¿de quién?) 
-Ex:
+e.g.:
 - Whose money is this? 
 - Whose books are this? 
 - Whose is this jacket? 
@@ -146,6 +165,6 @@ adjectives, we must use the *how* word. Ex:
 
 Spanish|English 
 ---|---
-¡Qué hwrmoso! | How beautiful!
+¡Qué hermoso! | How beautiful!
 ¡Qué grosero! | How rude!
 ¡Qué interesante | How interesting! 
