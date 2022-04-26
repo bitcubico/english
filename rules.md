@@ -126,13 +126,21 @@ con:
 - Any: para preguntar o responder negativamente 
 - A little / little (I have a little money) 
 
-## In and On (Prepositions of time) 
+## In, On and At (Prepositions of time) 
+
+Prepositions of time and place\
+Three prepositions of time and place are in, on and at.
 
 ### On (Specifical time) 
-Use **on** before days of the week, dates, and holidays.
+Use on for smaller areas, like streets, and for days and dates. Also before days of the week, dates, and holidays.
 
 ### In (General time) 
-Use **in** before times of day(morning, afternoon, evening), months, seasons, and years.
+Use **in** for large areas or periods of time, like countries or years. Also before times of day(morning, afternoon, evening), months, seasons, and years.\
+Use **in** with morning, afternoon and evening.
+
+### At (Specific place or time)
+Use **at** for addresses, businesses and buildings; and for precise periods of time.\
+Use **at** with night, midnight and noon.
 
 e.g.:
 - It's **on** December 20th
@@ -141,9 +149,18 @@ e.g.:
 - It's **in** the morning/afternoon/avening
 - It's **in** December
 - It's **in** the winter
+- Beijing is **in** China
+- They came here **in** 2005
+- **In** the morning, I'm very tired
 - It's **on** (early/late) 2022
-- I was born **on** January 1st at 6 AM in the
-morning in 2000
+- I was born **on** January 1st at 6 AM in the morning in 2000
+- I live **on** Main Street
+- The lecture is **on** Monday
+- My birthday is **on** April 17th
+- His house is **at** 465 Pine Street
+- The concert is **at** 5 p.m.
+- The lecture is **at** the auditorium
+- At night, I like to read
 
 ## Whose (¿de quién?) 
 e.g.:
