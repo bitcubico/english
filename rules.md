@@ -1,5 +1,41 @@
 # Rules
 
+## Gerunds and infinitives
+Gerunds and infinitives are used to talk about complex ideas.\
+Gerunds are formed with **ing**. Infinitives are formed with **to + a verb**. You can use infinitives and gerunds after certain verbs.\
+
+**Gerund (verb + ing):**
+- Oscar enjoys **cooking** dinner for Frank
+
+**Infinitive (to + verb):**
+- Frank plans **to eat** out
+
+Some verbs can only have gerunds after them, whereas some can only have infinitives. Some verbs can have either gerunds or infinitives.\
+
+These verbs can only have an infinitive after them:
+
+Verb | e.g.
+--- | ---
+Plan | We're **planning to go** to the soccer game
+Want | We **want to see** the play in the park this week
+Need | I **need to get** some money for the concert
+
+These verbs can only have a gerund after them:
+
+Verb | e.g.
+--- | ---
+Enjoy | I **enjoy listening** to music.
+Keep | Martin **kept playing** his guitar until midnight
+Think about | We're **thinking about** going to a concert
+
+These verbs can only have a gerund after them:
+
+Verb | e.g.
+--- | ---
+Like | I **like going to** musicals
+Love | Joan **loves eating** in restaurants
+Begin | It **began to snow**
+
 ## The
 
 Se usa cuando se habla de algo específico.\
@@ -167,6 +203,13 @@ e.g.:
 - Whose money is this? 
 - Whose books are this? 
 - Whose is this jacket? 
+
+## Could
+Use the following questions with Could you to ask for help.
+
+e.g.:
+- **Could** you do me a favor?
+- **Could** you help me?
 
 ## Exclamations
 Ex:
