@@ -36,6 +36,34 @@ Like | I **like going to** musicals
 Love | Joan **loves eating** in restaurants
 Begin | It **began to snow**
 
+## Can, Could, have to
+When use can or could the verb is simple
+
+### Can
+Use for present ability (skills) or posibility
+
+e.g.
+- I can dance bachata
+
+### Could
+Use for presente hypothetical (imaginary - unreal) posibility
+
+e.g.
+- I could go to ghe movies tonight
+
+Use for past real ability or posibility
+
+e.g.
+- When I was a baby, I could sleep all day
+
+Use the following questions with Could you to ask for help.
+
+e.g.:
+- **Could** you do me a favor?
+- **Could** you help me?
+
+### Have to (obligation)
+
 ## The
 
 Se usa cuando se habla de algo específico.\
@@ -203,13 +231,6 @@ e.g.:
 - Whose money is this? 
 - Whose books are this? 
 - Whose is this jacket? 
-
-## Could
-Use the following questions with Could you to ask for help.
-
-e.g.:
-- **Could** you do me a favor?
-- **Could** you help me?
 
 ## Exclamations
 Ex:
