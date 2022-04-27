@@ -19,3 +19,18 @@ You just need to understand the key words. In the following paragraph, the key w
 
 On **Saturday, June 23rd**, the Springfield **Orchestra** is going to **perform** Beethoven's Fifth Symphony. The concert **starts** at **3 p.m.** in Springfield **Park**. 
 **Admission** is **$5** for adults and **$1** for children. **Tickets** are **available** online at www.springfield.orchestra.com.
+
+## Suggesting activities
+There are several ways to make suggestions for activities.\
+
+### 'Let's' + base form of verb
+Let's go to the dance performance.
+
+### 'How about' or 'what about' + verb + '-ing'
+What about meeting some friends?
+
+### 'Could' + base form of verb
+We could go out for a drink at Harry's Bar
+
+### 'Why don't we' + base form of verb
+Why don't we try a new restaurant?
