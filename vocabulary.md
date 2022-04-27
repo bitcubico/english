@@ -8,6 +8,7 @@ Abogado | Lawyer, Attorney
 Abrázame | Hold me | I'll miss you, **HOLD ME**, please
 Aburrid@ | Bored
 Aburridor 🙄 | Boring | The baseball game is really **boring**
+Acoso | Harassment
 Acumulador | Pack rat or Hoarder
 Adicto al trabajo | Workaholic
 Adivinar | Guess | **Guess** what 
@@ -251,6 +252,7 @@ Letra | Handwriting | I can't read your **handwriting**
 Levantar | Raise | Please **RAISE** your hands 👐 - **RAISE** your hand 🖐️ to ask a question
 Librería | Bookstore | The **BOOKSTORE** is next to the hotel
 Linterna 🔦 | Flash light
+Llevar a | Lead to
 Llavero | Key chain
 Llegar | Arrived | She wants to **ARRIVE** this evening
 
@@ -281,6 +283,7 @@ Mesero | Waiter | Where's the **weiter**?
 Mesera | Weitress | Which **weitress** is friendlier 
 Mirador | Viewpoint | My favorite place in Medellín are the **viewpoints**
 Mochila 🎒 o Morral | Backpack | He put her **BACKPACK** on the floor
+Molesto | Annoying
 Mostrador | Counter | My passport is here on the **COUNTER**
 Muebles | Furnitures
 
@@ -345,6 +348,7 @@ Spanish | English | Example
 Quedarse | Stay | I don't want to **STAY** at a cheap hotel
 Querer | Want
 Querer (pasado) | Wanted
+Quisquilloso | Touchy
 Quizás | Perhaps | I don't know, **PERHAPS** you are wrong
 
 ---
