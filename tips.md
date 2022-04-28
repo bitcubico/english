@@ -15,14 +15,14 @@ e.g.
 Look at the paragraph to see how powerful a strategy using key words is. You don't have to read every word to understand a paragraph. 
 You just need to understand the key words. In the following paragraph, the key words are in bold.\
 
-**Concert** in the **Park**\
+**Concert** in the **Park**
 
 On **Saturday, June 23rd**, the Springfield **Orchestra** is going to **perform** Beethoven's Fifth Symphony. 
 The concert **starts** at **3 p.m.** in Springfield **Park**. 
 **Admission** is **$5** for adults and **$1** for children. **Tickets** are **available** online at www.springfield.orchestra.com.
 
 ## Suggesting activities
-There are several ways to make suggestions for activities.\
+There are several ways to make suggestions for activities.
 
 ### 'Let's' + base form of verb
 Let's go to the dance performance.
@@ -48,3 +48,43 @@ to get this information.
 - What time is the next show?
 - Are tickets still available?
 - How much are tickets?
+
+## Tag Question
+Tag Questions are commonly used as conversational tools to ask for confirmation.\
+
+Use tag questions to confirm information you already think is true or to encourage someone to make small talk with you.\
+
+e.g.
+- It’s a beautiful day, isn’t it?
+
+### Rules to make these kind question
+
+- When the statement is affirmative, the tag is negative
+- When the statement is negative, the tag is affirmative
+- Use the same verb tense or modal in the tag question as in the main statemen
+
+e.g.\
+Afirmative Elements 
+
+- You’re Lee, aren't you?
+- She speaks Thai, doesn't she?
+- There are a lot of rules, aren't there?
+- You were there, weren't you?
+- They left, didn't they?
+- She is from a small town in China, isn't she?
+- We’re late again, aren't we?
+- She was at the last meeting, didn't she?
+- You went to school with Charlie, didn't you?
+- He smokes, doesn't he?
+- She ate the sandwich, didn't she?
+
+e.g.\
+Negative Elements 
+
+- You’re not Amy, are you?
+- There isn’t any sugar, is there?
+- I don’t know you, do I?
+- We didn’t know, did we?
+- They aren’t on their way already, are they?
+- He didn't finish writing the report, did he?
+- She didn´t eat the sandwich, did she?
