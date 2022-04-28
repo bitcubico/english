@@ -17,7 +17,8 @@ You just need to understand the key words. In the following paragraph, the key w
 
 **Concert** in the **Park**\
 
-On **Saturday, June 23rd**, the Springfield **Orchestra** is going to **perform** Beethoven's Fifth Symphony. The concert **starts** at **3 p.m.** in Springfield **Park**. 
+On **Saturday, June 23rd**, the Springfield **Orchestra** is going to **perform** Beethoven's Fifth Symphony. 
+The concert **starts** at **3 p.m.** in Springfield **Park**. 
 **Admission** is **$5** for adults and **$1** for children. **Tickets** are **available** online at www.springfield.orchestra.com.
 
 ## Suggesting activities
@@ -34,3 +35,16 @@ We could go out for a drink at Harry's Bar
 
 ### 'Why don't we' + base form of verb
 Why don't we try a new restaurant?
+
+## Asking for information about movies
+When you want to go to a movie, you need some basic information about it. You need to know when it starts, 
+where it is and how much it costs. You also need to know where to buy tickets. Use the following questions 
+to get this information.
+
+- Can you give me some information?
+- Do you have a website?
+- Can I buy tickets online?
+- What's your address?
+- What time is the next show?
+- Are tickets still available?
+- How much are tickets?
