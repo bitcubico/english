@@ -251,3 +251,13 @@ Spanish|English
 ¡Qué hermoso! | How beautiful!
 ¡Qué grosero! | How rude!
 ¡Qué interesante | How interesting! 
+
+## Adjective order
+When you use more than one adjective in a description, a general rule is to put them in order by **size**, then **age**, then **color**.
+
+Notice the size-age-color order in these examples:
+- That is a fat, old, black dog
+- He has big, brown eyes
+- He's a thin, middle-aged man
+- Her hair is shorter and grayer than before
+- That tall, young, blond man drives a truck
