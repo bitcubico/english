@@ -88,3 +88,43 @@ Negative Elements
 - They aren’t on their way already, are they?
 - He didn't finish writing the report, did he?
 - She didn´t eat the sandwich, did she?
+
+## Physical descriptions of people
+When we describe a person's body, we usually talk about height and weight. Note that it is generally considered rude\ 
+to call someone fat or overweight. However, overweight is less offensive when describing someone.\
+
+When describing height and weight, use the verb be.
+- She is tall and thin
+
+When we describe a person's face, we usually talk about eye color and any other notable features. For facial descriptions,\ 
+we usually use the verb have.
+- She has blue eyes
+- He has a nice smile
+- He has big ears
+- She has long, brown hair.
+
+When we describe a person's hair, we usually talk about length, type and color. A person with no hair is bald. Here are some useful adjectives:
+- long
+- short
+- straight
+- bald
+- medium length
+- curly
+- blond
+
+We usually use the verb have to describe a person's hair. If a person is bald, however, we use the verb be.
+- She has long, straight, brown hair
+- My father is bald
+
+Say What does (person) look like? to ask about a person's size, shape, age or overall appearance. Use the verb be to describe overall appearance.\
+- What does he look like?
+- He is tall and middle-aged. He's very good-looking
+
+Use questions like What color are his eyes? and How tall is she? to ask for a description of specific parts of a person's body.\ 
+Use the verb have to refer to body parts.
+- What color are his eyes? (They're brown)
+- How tall is she? (She's very tall)
+- What do the children look like? (They have curly, red hair. Jasmine has big, brown eyes, and Jason has blue eyes)
+
+Good-looking has the same meaning as attractive. Good-looking and attractive can be used for both men and women.\
+Beautiful is generally used for women, and handsome is generally used for men.
