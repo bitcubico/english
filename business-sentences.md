@@ -32,3 +32,8 @@ Some sentences that we usually could use in business meetings
 - So, I look forward to seeing you on Tuesday at four. (formal)
 - I will call you tonight to confirm our meeting
 - I will text you as soon as I know
+
+## Interview questions and tips
+
+- How did you find the job you have now?\
+  I found my current job...
