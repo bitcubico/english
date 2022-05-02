@@ -1,3 +1,4 @@
+
 # English Tips
 
 ## Proper nouns
@@ -13,7 +14,7 @@ e.g.
 - Harry's **Bar and** Grill
 
 Look at the paragraph to see how powerful a strategy using key words is. You don't have to read every word to understand a paragraph. 
-You just need to understand the key words. In the following paragraph, the key words are in bold.\
+You just need to understand the key words. In the following paragraph, the key words are in bold.
 
 **Concert** in the **Park**
 
@@ -50,9 +51,9 @@ to get this information.
 - How much are tickets?
 
 ## Tag Question
-Tag Questions are commonly used as conversational tools to ask for confirmation.\
+Tag Questions are commonly used as conversational tools to ask for confirmation.
 
-Use tag questions to confirm information you already think is true or to encourage someone to make small talk with you.\
+Use tag questions to confirm information you already think is true or to encourage someone to make small talk with you.
 
 e.g.
 - It’s a beautiful day, isn’t it?
@@ -90,14 +91,12 @@ Negative Elements
 - She didn´t eat the sandwich, did she?
 
 ## Physical descriptions of people
-When we describe a person's body, we usually talk about height and weight. Note that it is generally considered rude\ 
-to call someone fat or overweight. However, overweight is less offensive when describing someone.\
+When we describe a person's body, we usually talk about height and weight. Note that it is generally considered rude to call someone fat or overweight. However, overweight is less offensive when describing someone.
 
 When describing height and weight, use the verb be.
 - She is tall and thin
 
-When we describe a person's face, we usually talk about eye color and any other notable features. For facial descriptions,\ 
-we usually use the verb have.
+When we describe a person's face, we usually talk about eye color and any other notable features. For facial descriptions, we usually use the verb have.
 - She has blue eyes
 - He has a nice smile
 - He has big ears
@@ -116,15 +115,29 @@ We usually use the verb have to describe a person's hair. If a person is bald, h
 - She has long, straight, brown hair
 - My father is bald
 
-Say What does (person) look like? to ask about a person's size, shape, age or overall appearance. Use the verb be to describe overall appearance.\
+Say What does (person) look like? to ask about a person's size, shape, age or overall appearance. Use the verb be to describe overall appearance.
 - What does he look like?
 - He is tall and middle-aged. He's very good-looking
 
-Use questions like What color are his eyes? and How tall is she? to ask for a description of specific parts of a person's body.\ 
-Use the verb have to refer to body parts.
+Use questions like What color are his eyes? and How tall is she? to ask for a description of specific parts of a person's body. Use the verb have to refer to body parts.
 - What color are his eyes? (They're brown)
 - How tall is she? (She's very tall)
 - What do the children look like? (They have curly, red hair. Jasmine has big, brown eyes, and Jason has blue eyes)
 
 Good-looking has the same meaning as attractive. Good-looking and attractive can be used for both men and women.\
 Beautiful is generally used for women, and handsome is generally used for men.
+
+## 'Too' and 'enough'
+Use **too +** adjective to say when something is more than necessary, or more than desired.
+
+- Her project is late because she's  **too disorganized**
+- She's  **too negative**. She thinks too much about problems
+
+Use an adjective **+ enough** to say when something is sufficient or satisfactory.
+
+- Carson is  **hardworking and efficient enough**  to be the new manager
+
+Use **not +** adjective **+ enough** to say when something is deficient or unsatisfactory.
+
+- Sally's  **not efficient enough**
+- He's  **not creative enough**  to work in marketing
