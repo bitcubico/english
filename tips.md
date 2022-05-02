@@ -130,14 +130,31 @@ Beautiful is generally used for women, and handsome is generally used for men.
 ## 'Too' and 'enough'
 Use **too +** adjective to say when something is more than necessary, or more than desired.
 
-- Her project is late because she's  **too disorganized**
-- She's  **too negative**. She thinks too much about problems
+- Her project is late because she's _**too disorganized**_
+- She's _**too negative**_. She thinks too much about problems
 
 Use an adjective **+ enough** to say when something is sufficient or satisfactory.
 
-- Carson is  **hardworking and efficient enough**  to be the new manager
+- Carson is _**hardworking and efficient enough**_ to be the new manager
 
 Use **not +** adjective **+ enough** to say when something is deficient or unsatisfactory.
 
-- Sally's  **not efficient enough**
-- He's  **not creative enough**  to work in marketing
+- Sally's  _**not efficient enough**_
+- He's  _**not creative enough**_  to work in marketing
+
+## Opinions with 'I think that'
+Say **I think that** to indicate you are expressing an opinion. Use **so do I** to agree with an opinion expressed by phrases such as **I think that** and **I like**.
+
+- _**I think that**_  he does a really good job (_**So do I**_)
+- _**I like**_  them both  (_**So do I**_)
+
+Use **neither do I** to agree with an opinion expressed by **I don't think that**, or any other opinion expressed in the negative.
+
+- _**I don't think**_ she's lazy (_**Neither do I**_)
+
+Notice **that** can be dropped without the meaning of the sentence being affected.
+
+To ask for someone's opinion, you can use **what do you think about** and **do you think**.
+
+- _**What do you think about**_ Denise? (_**She's very efficient**_)
+- _**Do you think**_ Paul is too disorganized? (_**No, not really**_)
