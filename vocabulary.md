@@ -327,7 +327,9 @@ Plátano maduro | Ripe plantain
 Platos | Dishes
 Pocos | Few | Can you stay a few days?
 Poder hacer | To be able to | I want **to be able to** learn English language abroad
+Por | Because of
 Por eso | Hence | **Hence**, I chose a different occupation 
+Porque | Because
 Practica universitaria | Practicum
 Preferir | Prefer | There are many shirts, but the customer **PREFERS** this one
 Preguntar | Ask - Wondering if | Can **ASK** your father - I was wondering, could I **borrow** a cup of tea
