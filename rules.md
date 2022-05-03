@@ -1,8 +1,10 @@
+
 # Rules
 
 ## Gerunds and infinitives
-Gerunds and infinitives are used to talk about complex ideas.\
-Gerunds are formed with **ing**. Infinitives are formed with **to + a verb**. You can use infinitives and gerunds after certain verbs.\
+
+Gerunds and infinitives are used to talk about complex ideas.
+Gerunds are formed with **ing**. Infinitives are formed with **to + a verb**. You can use infinitives and gerunds after certain verbs.
 
 **Gerund (verb + ing):**
 - Oscar enjoys **cooking** dinner for Frank
@@ -10,7 +12,7 @@ Gerunds are formed with **ing**. Infinitives are formed with **to + a verb**. Yo
 **Infinitive (to + verb):**
 - Frank plans **to eat** out
 
-Some verbs can only have gerunds after them, whereas some can only have infinitives. Some verbs can have either gerunds or infinitives.\
+Some verbs can only have gerunds after them, whereas some can only have infinitives. Some verbs can have either gerunds or infinitives.
 
 These verbs can only have an infinitive after them:
 
@@ -66,22 +68,21 @@ e.g.:
 
 ## The
 
-Se usa cuando se habla de algo específico.\
+Se usa cuando se habla de algo específico.
 *It use when tell about specific something*.
 
 **Ex**:
 - The water of this river is very clean
 - The children are playing soccer
 
-Cúando se habla de algo general se omite.\
+Cúando se habla de algo general se omite.
 *It ommited when tell about general thing.*
 
 **Example:**
 - Water is very good for your health 
 - Children love video games
 
-Suena "de" cuando la siguiente palabra es una vocal y 
-"da" cuando la siguiente palabra es una consonante. 
+Suena "de" cuando la siguiente palabra es una vocal y  "da" cuando la siguiente palabra es una consonante. 
 
 *It sound as "de" when the next word is a vowel and 
 "da" when the next word is a consonant*.
@@ -96,11 +97,9 @@ Suena "de" cuando la siguiente palabra es una vocal y
 #### Rules with to be
 **Subject + to be + verb + ing + complement**
 
-If the verb ends with **consonant + vowel + consonant**, 
-put a extra **n**, except when the last word is a **w**. 
-For example:
+If the verb ends with **consonant + vowel + consonant**,  put a extra **n**, except when the last word is a **w**. 
 
-Ex:
+e.g.
 - Swim 🏊 -> Swimning
 - Sit -> Sitning
 
@@ -122,6 +121,7 @@ Si la pregunta no contiene el verbo to be se usa el auxiliar do o does
 - Where are you from? 
 
 ## Have got
+
 *Have got* means the same as *have*, but is using in certain situations. 
 You can use *have got or have* to talk about 
 **relationship, things you own or have, your 
@@ -141,6 +141,7 @@ Ex.
 - She's got a nice apartment 
 
 ## Many and Much
+
 ### Many (Cuántos)
 It can used in paragraphs or questions that include
 countable substantives, ex:
@@ -192,8 +193,7 @@ con:
 
 ## In, On and At (Prepositions of time) 
 
-Prepositions of time and place\
-Three prepositions of time and place are in, on and at.
+Prepositions of time and place Three prepositions of time and place are in, on and at.
 
 ### On (Specifical time) 
 Use on for smaller areas, like streets, and for days and dates. Also before days of the week, dates, and holidays.
@@ -253,6 +253,7 @@ Spanish|English
 ¡Qué interesante | How interesting! 
 
 ## Adjective order
+
 When you use more than one adjective in a description, a general rule is to put them in order by **size**, then **age**, then **color**.
 
 Notice the size-age-color order in these examples:
@@ -261,3 +262,49 @@ Notice the size-age-color order in these examples:
 - He's a thin, middle-aged man
 - Her hair is shorter and grayer than before
 - That tall, young, blond man drives a truck
+
+## Adverbs at work
+
+Adverbs explain how, when or where. They can describe a verb, an adjective or another adverb. Many adverbs end in **-ly** and these are easiest to recognize and form. But many adverbs don't end in **-ly**, and the best way to identify these is to connect them to the verb, adjective or adverb that they modify.
+
+Use adverbs of manner with a verb to indicate the way something is done.
+
+e.g.
+- Martina _**works quickly**_
+- She _**works well**_ with the team
+-  I _**highly recommend**_ Martina
+-  I'm going to _**miss**_ her _**terribly**_
+- Her husband _**is already**_ in New York
+- She's _**leaving**_ that _**soon**_?
+
+Use adverbs of frequency with a verb to indicate the frequency of an action.
+
+e.g.
+-She _**was always**_ organized
+
+Use adverbs of probability with a verb to indicate the likelihood of an action.
+
+e.g.
+- She can _**probably learn**_  that in one or two days
+
+You can use **only** with a verb to draw attention to information.
+
+e.g.
+- The project _**only took**_ her one day
+
+You can use adverbs to modify adjectives.
+
+e.g.
+- The brochure was _**really beautiful**_
+- She's _**so creative**_
+
+Some adverbs modify other adverbs. Notice how **pretty** and **so** add extra detail to these sentences.
+
+e.g.
+- She can learn that _**pretty quickly**_
+- He writes  _**so well**_
+
+You can use the adverb **honestly** at the front of a sentence to emphasize a point.
+
+e.g.
+- _**Honestly**_, what are we going to do?
