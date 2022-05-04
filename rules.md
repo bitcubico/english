@@ -308,3 +308,61 @@ You can use the adverb **honestly** at the front of a sentence to emphasize a po
 
 e.g.
 - _**Honestly**_, what are we going to do?
+
+## Past tense verbs
+
+Many past tense verbs are formed just by adding **-ed** to the end of the present tense verb.
+
+Present | Past
+---|---
+walk | _walk**ed**_
+clean | _clean**ed**_
+
+### Irregular verbs
+
+However, some of the most common verbs are irregular, which means their past forms do not end in **-ed**. They can be formed in many different ways.
+
+Present | Past
+---|---
+have | _**had**_
+make | _**made**_
+eat | _**ate**_
+drink | _**drank**_
+let | _**let**_
+
+### The verb 'be'
+
+The verb **be** has two forms in the past – **was** and **were**. Use **was** with the pronouns **he**, **she**, **it** and **I**. Use **were** with **you**, **we** and **they**.
+
+e.g.
+- He _**was**_ tired yesterday
+- They _**were**_ happy in Paris
+
+### Negatives
+
+Use **did + not** to make negative past tense verbs. The main verb remains in its base form.
+
+In spoken English, the phrase **did not** is usually contracted to **didn't**.
+
+e.g.
+- They _**did not**_ like London
+- We ***did not*** meet John yesterday
+
+Use the phrases **was not** and **were not** for the verb **be**. The contractions of these phrases are **wasn't** and **weren't**.
+
+e.g.
+- Frank  ***was not*** happy in Los Angeles. > Frank ***wasn't*** happy in Los Angeles
+- Oscar and Pam ***were not*** at Home yesterday > Oscar and Pam ***weren't*** at Home yesterday
+
+### Past tense questions
+
+Use the word **did** at the beginning of a sentence to form a past question. Use the base form of the main verb after **did**. Do not add an **-s** to the verb.
+
+e.g.
+- ***Did*** he ***go*** to Shanghai?
+- ***Did*** they ***eat*** dinner?
+
+To form a past tense question with the verb **be**, put **was** or **were** at the front of the question phrase.
+
+e.g.
+He ***was*** happy > ***Was*** he happy?
