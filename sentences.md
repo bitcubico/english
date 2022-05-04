@@ -1,3 +1,4 @@
+
 # Sentences
 
 ## A
@@ -29,7 +30,8 @@ Cuentame el chisme | Tell me the goosip
 Spanish | English 
 --- | --- 
 !Dejen de burlarse de mí! | Stop making fun of me! 
-Depende de ti | It's up to you 
+Depende de ti | It's up to you
+Desayuné | I ate breakfast
 De vez en cuando | Once in a while - From time to time
 ¿Donde has estado? | Where have you been? 
 
@@ -78,8 +80,9 @@ La fecha de hoy es | Today's date is
 Spanish | English 
 --- | --- 
 Mas o menos | More or less
-Me preguntaba si | I was wondering if
 Me gustaría comprar una cerveza también | I would like to get a beer as well
+Me levanté | I got up
+Me preguntaba si | I was wondering if
 
 ---
 ## N
@@ -96,6 +99,7 @@ No me puedo quejar | Can't complain
 ## P
 Spanish | English
 --- | --- 
+Planché mi ropa | I ironed my clothes
 Por ahora no siento frío | I'm not cold now
 Por aquí | This way 
 Por lo menos | At least
