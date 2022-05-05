@@ -1,4 +1,5 @@
 
+
 # Rules
 
 ## Gerunds and infinitives
@@ -366,3 +367,40 @@ To form a past tense question with the verb **be**, put **was** or **were** at t
 
 e.g.
 He ***was*** happy > ***Was*** he happy?
+
+### Irregular past tense verbs
+
+Many verbs are irregular in the past tense. This means that you can't form the past tense of the verb by simply adding **-ed**.
+
+Some irregular verbs look completely different from their present tense forms. You just need to memorize them.
+
+Present | Past
+---|---
+go | ***went***
+eat | ***ate***
+bring | ***brought***
+leave | ***left***
+sell | ***sold***
+
+Other irregular verbs have past tense forms that have only one letter that changes. These are a little easier to learn.
+
+Present | Past
+---|---
+make | ***made***
+rise | ***rose***
+get | ***got***
+
+A few verbs have the same form for both present and past.
+
+Present | Past
+---|---
+cut | ***cut***
+let | ***let***
+shut | ***shut***
+
+The verb **read** has the same spelling in the present and the past, but a different pronunciation.
+
+Pronunciation Present | Pronunciation Past
+---|---
+rid | red
+I often ***read*** novels | I ***read*** a good novel last week
