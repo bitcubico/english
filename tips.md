@@ -1,5 +1,6 @@
 
 
+
 # English Tips
 
 ## Proper nouns
@@ -188,3 +189,32 @@ e.g.
 - Debra is _**such a team player**_
 - She shows _**such creativity**_
 - Oscar is _**such a hard worker**_
+
+## Changing a topic
+
+Conversations move from one topic to another. There are some expressions that help people signal that they are going to change the topic.
+
+### By the way
+
+Use the expression **by the way** to introduce a new topic. It can also mean that you just thought of something.
+
+e.g.
+A:  ***By the way***, I saw Joe last night. He looked good.
+B: Really? I'm so glad!
+
+### That reminds me
+
+Use **that reminds me** to change the direction of the conversation when you remember something else that you want to say.
+
+e.g.
+A: There was a great baseball game on TV last night.
+B: Oh,  ***that reminds me***. I have two tickets to tonight's game. Do you want to go?
+
+### Anyway
+
+Use the word **anyway** to conclude or summarize a topic so that you can start a new topic. It is a useful word when you are tired of listening to someone talk about something and really want to change the topic.
+
+e.g.
+A: That restaurant wasn't very good.
+B: No, it wasn't! The meat tasted bad, and the salad wasn't fresh. And the waiter was awful! His clothes were dirty!
+A: ***Anyway***, we're not going there again. So, how's Jane?
