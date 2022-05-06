@@ -1,5 +1,3 @@
-
-
 # Rules
 
 ## Gerunds and infinitives
@@ -404,3 +402,44 @@ Pronunciation Present | Pronunciation Past
 ---|---
 rid | red
 I often ***read*** novels | I ***read*** a good novel last week
+
+## Past tense questions with question words
+
+Past tense questions that don't use the verb **be**, and which begin with a question word, take the auxiliary **did**. Notice also that the main verb stays in its base form.
+
+e.g.
+A: **What did** you  **do**  on the weekend?
+B: I played badminton
+
+A: **Where did**  you  **go**  for your vacation?
+B: I went to Peru
+
+To ask about the owner of an object, use the question word **whose**.
+
+e.g.
+A: **Whose**  backpack  **did**  you borrow?
+B: I borrowed my brother's
+
+To ask about the category of something, use the question phrase **what kind of**.
+
+e.g.
+A: **What kind of**  tent  **did**  you buy?
+B: I bought a Shelty. It's the best brand
+
+A: **What kind of**  animals  **did**  you see?
+B: We saw deer, wolves and a snake
+
+You can use the question word **how** with many different adjectives to ask for detailed information.
+
+e.g.
+- **How far did**  you walk?
+- **How difficult** was the hike?
+
+Questions with the verb **be** don't require the auxiliary **did**.
+
+e.g.
+A: **How was** your weekend?
+B: It was great, thanks.
+
+A: **How long was** your trip?
+B: We hiked for two weeks
