@@ -1,4 +1,3 @@
-
 # Sentences
 
 ## A
@@ -120,6 +119,7 @@ Revisa tus mensajes de texto | Check your text messages
 ## S
 Spanish | English 
 --- | --- 
+Sientanse como en casa | Make yourselves at home
 Sigamos avanzando | Let's keep moving
 Sobre todo | Above all
 Sosten esto por favor | Hold on this, please
