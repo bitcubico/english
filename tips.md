@@ -1,6 +1,3 @@
-
-
-
 # English Tips
 
 ## Proper nouns
@@ -218,3 +215,23 @@ e.g.
 A: That restaurant wasn't very good.
 B: No, it wasn't! The meat tasted bad, and the salad wasn't fresh. And the waiter was awful! His clothes were dirty!
 A: ***Anyway***, we're not going there again. So, how's Jane?
+
+## Making and responding to invitations
+
+Use expressions like these to make an invitation. It's helpful to explain the situation before you make the invitation.
+
+- We're having some people over next weekend. Kelsey and I are hoping that you and Cody can come.
+- I'm having a birthday party for Tyler in two weeks. I'd like you to come
+- Are you free Friday night? Would you like to come to a housewarming?
+- We should get together for dinner this week. What does your schedule look like?
+
+To accept or discuss an invitation, use expressions like these:
+
+- Great! I'm definitely coming
+- We can probably come. Let me talk to Dave about it
+- Thanks! I'd be delighted
+
+To decline an invitation, use expressions like these:
+
+- Sorry. Chelsea probably can't come. She has a cold
+- Oh, that weekend's no good. Sorry!
