@@ -1,3 +1,4 @@
+
 # English Tips
 
 ## Proper nouns
@@ -235,3 +236,21 @@ To decline an invitation, use expressions like these:
 
 - Sorry. Chelsea probably can't come. She has a cold
 - Oh, that weekend's no good. Sorry!
+
+e.g.
+**From**: gill93@just.com
+**To**: lauraahernandez@fun.net
+
+Hi, Laura.
+
+I'm having a birthday party for Brandon on the 23rd, around 5 p.m. I'm hoping that you and Charles can come. Are you guys free?
+___
+**From:**  lauraahernandez@fun.net  
+**To:** gill93@just.com  
+**Subject:** RE: Brandon's birthday
+
+Hey, Gillian.
+
+Sounds lovely. Maybe we can come. I'm not sure. Billy has baseball practice on the 23rd. Let me talk with Charles.
+
+Talk with you soon.
