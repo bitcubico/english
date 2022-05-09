@@ -101,6 +101,7 @@ Spanish | English
 Planché mi ropa | I ironed my clothes
 Por ahora no siento frío | I'm not cold now
 Por aquí | This way 
+Por favor ponte comodo | Please make yourselves comfortable
 Por lo menos | At least
 
 ---
