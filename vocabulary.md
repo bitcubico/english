@@ -225,6 +225,7 @@ Spanish | English | Example
 --- | --- | ---
 Infancia | Childhood 
 Informe | Report | Can you help me write a report for work? 
+Inauguración de casa | housewarming
 Inodoro | Toilet 🚽 
 Inteligente | Smart | I need you'll **SMART**
 Inténtalo | Go for it
