@@ -1,5 +1,3 @@
-
-
 # English Tips
 
 ## Proper nouns
@@ -312,6 +310,10 @@ Use expressions like these when you are leaving someone's home:
 - The party was wonderful
 - We had a great time
 - It was so nice to see you again
+- I had a really good time
+- I really enjoyed myself
+- It was great!
+- I had a lot of fun
 
 Your host might check to make sure you're leaving nothing behind.
 
