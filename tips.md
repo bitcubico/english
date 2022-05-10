@@ -267,3 +267,26 @@ Use **could** or **may** to make a polite request of your host.
 - **Could**  I have some water?
 
 *Language note: In American English, **restroom** is a very polite word for the restroom in a home. **Bathroom** is relatively polite; **toilet** is not impolite, it's simply less polite. In British English, **toilet** is a polite word for the restroom in a home. **Loo** is acceptable to use but only in informal situations with people you know.*
+
+## Reacting to good and bad news
+
+Use expressions like these to react to good news:
+
+- Congratulations!
+- Really? I'm so happy for you!
+- That's great news!
+
+If you have a drink, you can say **to your** and **cheers** to offer a toast.
+
+- **To your** new job! Cheers!
+- **To your** new baby. Cheers!
+
+Use expressions like these to react to bad news:
+
+- Sorry – the sofa is not very comfortable (***That's OK***)
+- I just got fired (***That's terrible! I'm so sorry to hear that***)
+
+You can use **it's crazy** to react to both good and bad news.
+
+- I was surprised to get this great promotion. ***It's crazy***
+- It felt terrible to get fired.  ***It's totally crazy***
