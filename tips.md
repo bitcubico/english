@@ -329,3 +329,49 @@ You can invite your host to visit your home in the future. The first example her
 - You must come to us next time.
 
 People usually respond to these sentences by thanking you.
+
+## Writing a thank-you letter
+
+Here are some steps for writing a thank-you letter.
+
+Start with the date.
+
+*September 16*
+
+Greet the person you're writing with  **Dear +**  name, followed by a comma  **(,)**.
+
+*Dear Andy,*
+
+Thank the person, referencing your reason for thanking them.
+
+*Thank you for inviting me to your party.  
+Thanks for the wonderful gift.*
+
+Pay the person a compliment.
+
+*The food at the party was delicious.  
+Your home is lovely.  
+The scarf is beautiful.*
+
+Refer to your hope for future meetings.
+
+*I hope to see you again soon.  
+I hope that you can visit me soon.*
+
+Close, and sign, the letter.
+
+*Sincerely, Jane*
+
+**e.g.**
+
+January 5
+
+Dear Sally,
+
+Thanks so much for inviting me to lunch. It was great to see you. I really enjoyed myself. The restaurant was fantastic! I hope to see you again soon. How about dinner next time you're in town?
+
+Thanks again!  
+  
+Sincerely,
+
+Kris
