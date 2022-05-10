@@ -4,6 +4,7 @@
 Spanish | English 
 ---|---
 Hola, ¿Cómo te va? | Hi, how's it going? 
+¿Como es el clima ahí? | What's the weather like there?
 ¿Con qué frecuencia revisas tus redes sociales? | ¿How often do you check social media?
 ¿Con qué frecuencia usas la computadora? | How often do you use your computer? 
 ¿Cuál es el significado de...? | What is the meaning of...? 
@@ -34,3 +35,8 @@ Spanish | English
 ¿Qué significa...? | What is the meaning of? 
 ¿Qué vas a comer? | What are you going to eat? 
 ¿Qué estas tratando de decir?  | What are you trying to say? 
+
+## T
+Spanish | English 
+---|---
+¿Te gusta como es ahi? | Do you like it there?
