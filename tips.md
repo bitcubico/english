@@ -304,3 +304,26 @@ Here are some useful adjective synonyms:
 - happy - glad - pleased
 - beautiful - lovely - gorgeous
 - delicious - tasty - yummy
+
+## Leaving someone's home
+
+Use expressions like these when you are leaving someone's home:
+
+- The party was wonderful
+- We had a great time
+- It was so nice to see you again
+
+Your host might check to make sure you're leaving nothing behind.
+
+A: Do you have everything?
+B: I think so.
+
+A: Have you got everything?
+B: Yes, I have, thanks.
+
+You can invite your host to visit your home in the future. The first example here is more American; the second example, more British.
+
+- Next time, it's our turn to host
+- You must come to us next time.
+
+People usually respond to these sentences by thanking you.
