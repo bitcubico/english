@@ -1,4 +1,3 @@
-
 # English Tips
 
 ## Proper nouns
@@ -254,3 +253,17 @@ Hey, Gillian.
 Sounds lovely. Maybe we can come. I'm not sure. Billy has baseball practice on the 23rd. Let me talk with Charles.
 
 Talk with you soon.
+ 
+ ## Offering things and making polite requests
+ 
+ Use **would you like** to politely offer something to your guest.
+
+- **Would you like**  something to drink?
+- **Would you like**  to have a seat?
+
+Use **could** or **may** to make a polite request of your host.
+
+- **May**  I use the restroom?
+- **Could**  I have some water?
+
+*Language note: In American English, **restroom** is a very polite word for the restroom in a home. **Bathroom** is relatively polite; **toilet** is not impolite, it's simply less polite. In British English, **toilet** is a polite word for the restroom in a home. **Loo** is acceptable to use but only in informal situations with people you know.*
