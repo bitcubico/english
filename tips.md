@@ -1,3 +1,5 @@
+
+
 # English Tips
 
 ## Proper nouns
@@ -290,3 +292,15 @@ You can use **it's crazy** to react to both good and bad news.
 
 - I was surprised to get this great promotion. ***It's crazy***
 - It felt terrible to get fired.  ***It's totally crazy***
+
+## Adjective synonyms
+
+Using synonyms, or words with the same meaning, can make your English more interesting and varied. Learning synonyms is also a good way to understand and remember new vocabulary.
+
+Here are some useful adjective synonyms:
+
+- great - wonderful - delightful
+- fun - enjoyable
+- happy - glad - pleased
+- beautiful - lovely - gorgeous
+- delicious - tasty - yummy
