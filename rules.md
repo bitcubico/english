@@ -443,3 +443,32 @@ B: It was great, thanks.
 
 A: **How long was** your trip?
 B: We hiked for two weeks
+
+## 'Be' + 'going to' for plans, and 'will' for predictions
+
+Use **be + going to +** verb to talk about a firm plan or intention for the future.
+
+  
+A: What  **are you going to do**  on vacation? 
+B: **I'm going to**  visit friends and family. And  **I'm not going to work**
+
+Use **will +** verb to say what you predict or believe will happen. In spoken English, the pronoun and the verb are usually contracted.
+
+- **We'll** probably stay in a hotel
+- **I'll** be happy living by the sea
+- **You'll** like Paris
+
+When the pronoun and the verb are not contracted, it's usually for a particular emphasis.
+
+- You **will have**  fun
+- We **will not figh**
+
+For negative meaning, use **will + not +** verb. The short form is **won't**.
+
+- I **won't get**  sick
+- They **won't come** with us
+
+To specify time, you can add future time expressions:
+
+- I'm going to go horseback riding **on Thursday**
+- **The next two days** will be an adventure
