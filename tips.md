@@ -375,3 +375,18 @@ Thanks again!
 Sincerely,
 
 Kris
+
+## Farewell language
+
+Use expressions like these to bid farewell when someone leaves on a trip:
+
+- Have a great trip!
+- Drive safely!
+- Have a good flight
+- Call me when you get there
+- Don't worry about anything
+
+You can use the phrase **Bon voyage!** when someone leaves on a trip. The phrase is taken directly from French.
+
+A: OK, then. I'm going
+B: **Bon voyage!**
