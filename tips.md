@@ -390,3 +390,23 @@ You can use the phrase **Bon voyage!** when someone leaves on a trip. The phrase
 
 A: OK, then. I'm going
 B: **Bon voyage!**
+
+## Expressing purpose
+
+Use **in order to +** base verb to express purpose. Use a comma if the **in order to** clause comes before the main clause of the sentence. If it comes after the main clause, a comma is not needed.
+
+- **In order to reserve**  our room, I called the hotel
+- I called the hotel  **in order to reserve** our room
+
+You can omit **in order** altogether and simply use **to**. In fact, **to** is far more common, especially in spoken English.
+
+- Courtney went early  **to avoid**  the crowds
+
+You can also use **so that +** clause to express purpose. Use a comma after the **so that** clause if it comes before the main clause. If it comes after the main clause, a comma is not needed.
+
+- I turned off my phone **so that I could relax**
+- **So that I could relax**, I turned off my phone
+
+You can omit **that**, and simply use **so**.
+
+- I saved my money  **so**  I could visit Terry
