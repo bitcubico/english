@@ -1,3 +1,4 @@
+
 # English Tips
 
 ## Proper nouns
@@ -410,3 +411,44 @@ You can also use **so that +** clause to express purpose. Use a comma after the 
 You can omit **that**, and simply use **so**.
 
 - I saved my money  **so**  I could visit Terry
+
+## Checking if someone has done something
+
+Use the present perfect to talk about an action or event in the past that has particular relevance right now – for example, checking if someone has done something.
+
+Form questions in the present perfect like this: **have +** subject **+** past participle.
+
+**e.g.**
+- **Have you packed** your bags?
+- **Have you printed**  your boarding pass?
+- **Have you brought**  your passport?
+
+Here are some useful past participles. Compare them with the present and past forms.
+Present | Past
+---|---
+Pack | Packed
+Print | Printed
+Book | Booked
+Bring | Brought
+Lose | Lost
+
+### Responding to questions
+
+If someone asks if you have done something, you can answer with short phrases like these:
+
+Answer | Response
+---|---
+Have you printed your boarding pass? | **_Yes, I have_**
+Have you packed your bags? | **_No, not yet_**
+
+### No, not yet
+
+To say what you have done, use a phrase like this:
+
+- I **have booked** a taxi
+- **I've booked** a taxi
+
+To tell someone what you haven't done, add **n't** to **have**.
+
+- I **haven't** printed my boarding pass
+- I **haven't** checked in yet
