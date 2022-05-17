@@ -57,8 +57,8 @@ e.g.
 ***Interviewer***: Describe a coding situation where something didn't go as planned. How did you fix it?\
 ***Candidate***: At ARUS Company, I was a Teach Leader of a team of 7 members, we were assigned a project of great importance for one of our clients and with delivery dates not estimated by us and very tight in our opinion. So, As a technical lead, I first met with the client and asked him to tell me what were the most important functionalities he needed to offer to his clients, and I suggested going out with these initially to see the response of his clients and determine if it was worth implementing the features less important functionalities, fortunately, the client thought it was a good idea. By removing the various less important features, the delivery dates became feasible for the team and we were able to deliver on time.
 
-***Interviewer***: What do yo do in your free time?\
-***Candidate***: Well, I like to go for a walk, ride my bike, read books, watch TV, spend time with my mom, stay home, dance, and travel.
+***Interviewer***: What do yo do in your free time?
+***Candidate***: Well, I like hiking, biking, reading books, watching TV, spending time with my mom, staying home, dancing, and traveling.
 
 The interviewer will ask some follow-up questions regarding your resume.
 
