@@ -473,3 +473,24 @@ If you want to ask further questions about alternatives, or get a recommendation
 Once you've decided on a transportation option, you might want to find out where it is.
 
 - Where is the subway from here?
+
+## Answering questions about your flight
+
+When you speak to someone after your trip, they might have some friendly questions about the flight or your well-being. You can answer these questions by giving details about your experience on the flight.
+
+A: How was your flight?
+B: OK, but I had to change planes in Singapore
+
+A: How are you feeling?
+B: I'm really  **jet-lagged**. It's  **2 a.m. back home**
+
+They might also ask about your need for sleep, food or your experience on landing.
+
+A: Did you get any sleep on the plane?
+B: No, not really. **I'm pretty tired**
+
+A: Have you eaten yet?
+B: Yes,  **I had dinner on the plane**
+
+A: Any problems at customs and immigration?
+B: No,  **I got through really fast**.
