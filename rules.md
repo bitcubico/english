@@ -501,3 +501,29 @@ B: No, **I haven't been** there before.
 > as in **I've got my ticket.** Saying **I've gotten a ticket.** means
 > you've just obtained or bought one. In British English, **got** is
 > used in both cases.
+
+## Adverbs for the present perfect
+
+Use the adverbs **yet**, **already**, **never** and **ever** with the present perfect to indicate a period of time up until the present.
+
+Use the adverb **yet** to refer to something that has not happened yet, or to ask if something has happened yet. The adverb usually comes at the end of the sentence.
+
+- I haven't printed my boarding pass **yet**
+- They haven't packed their bags **yet**
+- Has she left for the airport **yet**?
+
+Use the adverb **already** to refer to something that has already happened, or to ask if something has already happened. The adverb usually comes directly before the main verb.
+
+- You can't come? But I've **already** booked the tickets!
+- Carly has **already** been to Paris, but I haven't
+- Has John **already** been to the Louvre?
+
+Use the adverb **ever** to ask if something has happened, or to ask about someone's experiences. For negative responses, use **never**. The adverbs usually come before the main verb.
+
+A: Have you **ever** lived in another country?
+B: No, I've **never** lived in another country
+
+> **Language note**: A common learner error is to use the adverb **ever** in affirmative statements. Notice the correct response in the example.
+> 
+> A: Have you **ever** been to Paris?
+B: Yes, I have been to Paris.
