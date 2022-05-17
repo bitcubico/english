@@ -42,11 +42,13 @@ e.g.
 ***Interviewer***: My pleasure. Your resume is impressive. I think you are strong candidate for the position of IT manager. I just have one question about your resume. **Who was your supervisor at Data System?**
 ***Candidate***: Oh, that was Trisha Chambers. She left the company last month
 ***Interviewer***: Why is that, and **why do you want to leave?**
-***Candidate***: Well, I'm looking for more challenging work and I don't think the work is challenging. Business isn't good, and people are worried.
+***Candidate***: Well, I'm looking for **more challenging work** and I don't think the work is challenging. Business isn't good, and people are worried.
 ***Interviewer***: I see. And you like a good challenge?
 ***Candidate***: I do. The more challenging, the better
-***Interviewer***: Good. How about strengths and weaknesses? Where do you think do you need improve?
-***Candidate***: Well, sometimes I try to do too much. I need to work on one thing at a time. And one of my strengths is that I work well on a team.
+***Interviewer***: Good. **How about strengths and weaknesses?** Where do you think do you need improve?
+***Candidate***: Well, **sometimes I try to do too much**. I need to work on one thing at a time. And two of **my strengths** is that I work well on a team and my passion for software development.
+***Interviewer***: Describe a coding situation where something didn't go as planned. How did you fix it?
+***Candidate***: At ARUS Company, I was a Teach Leader of a team of 7 members, we were assigned a project of great importance for one of our clients and with delivery dates not estimated by us and very tight in our opinion. So, As a technical lead, I first met with the client and asked him to tell me what were the most important functionalities he needed to offer to his clients, and I suggested going out with these initially to see the response of his clients and determine if it was worth implementing the features less important functionalities, fortunately, the client thought it was a good idea. By removing the various less important features, the delivery dates became feasible for the team and we were able to deliver on time.
 
 The interviewer will ask some follow-up questions regarding your resume.
 
