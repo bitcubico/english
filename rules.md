@@ -472,3 +472,32 @@ To specify time, you can add future time expressions:
 
 - I'm going to go horseback riding **on Thursday**
 - **The next two days** will be an adventure
+
+## Past participles
+
+The past participle form of some irregular verbs is different from the past tense form.
+
+Present | Past | Past Participle
+---|---|---
+be | was/were | been
+come | came | come
+do | did | done
+get | got | gotten/got
+give | gave | given
+go | went | gone
+see | saw | seen
+take | took | taken
+
+Remember to use these past participles to form the present perfect. Also, remember that the present perfect is used to talk about something that happened in the past at an unspecified time.
+
+**Affirmative statement** | **Negative statement** | **Question**
+---|---|---
+have + past participle | haven't + past participle | Have + subject + past participle + ?
+
+A: **Have you been** to Bolivia?  
+B: No, **I haven't been** there before.
+
+> **Language note**: In American English, **I've got** indicates possession,
+> as in **I've got my ticket.** Saying **I've gotten a ticket.** means
+> you've just obtained or bought one. In British English, **got** is
+> used in both cases.
