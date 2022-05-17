@@ -1,4 +1,3 @@
-
 # English Tips
 
 ## Proper nouns
@@ -452,3 +451,25 @@ To tell someone what you haven't done, add **n't** to **have**.
 
 - I **haven't** printed my boarding pass
 - I **haven't** checked in yet
+
+## Asking about options
+
+If you want to get help with transportation options to a destination, you can use questions like these.
+
+- Excuse me, how do I get downtown?
+- I need to get to the Grand Hotel. What's the best way to get there?
+
+You might hear an answer in the form of some options.
+
+- You can take the shuttle, or you can take a taxi
+- You could take the express train or the subway
+
+If you want to ask further questions about alternatives, or get a recommendation, you can ask questions like these:
+
+- Would a taxi be expensive?
+- What do you suggest?
+- Do I have any other options?
+
+Once you've decided on a transportation option, you might want to find out where it is.
+
+- Where is the subway from here?
