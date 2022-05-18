@@ -60,6 +60,18 @@ e.g.
 ***Interviewer***: What do yo do in your free time?\
 ***Candidate***: Well, I like hiking, biking, reading books, watching TV, spending time with my mom, staying home, dancing, and traveling.
 
+***Interviewer***: Why do you want to work for this company?\
+***Candidate***: I like this company because it is at the forefront of technology, it has quite interesting and challenging clients and projects, and its work environment seems spectacular to me.
+
+***Interviewer***: What technologies would  you use if you had to complete a project from scratch in only a month?\
+***Candidate***: I would use Python because of its short learning curve and most importantly because it is easier to find software developers who know its syntax.
+
+***Interviewer***: What do you do when it looks like a project you are working on might miss a deadline?\
+***Candidate***: I think it is important to keep the client up to date on their project and constantly communicate the status and when we reach that point where we are not going to achieve the delivery goal, negotiate with the client to modify the scope prioritizing the most important functionalities for their business in that delivery.
+
+***Interviewer***: What skills can you bring to this company?\
+***Candidate***: For me, the best thing I can give my employers is my passion for software development. I think that syntax is irrelevant when you are passionate about this art. On the other hand, I have more than 10 years of experience developing with .Net technologies, around 3 years using Angular, and I also have other knowledge of other languages. I work very well in a team and I adapt quickly.
+
 The interviewer will ask some follow-up questions regarding your resume.
 
 ***Interviewer***: I see that you got your MBA from The Wharton School.\
