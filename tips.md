@@ -494,3 +494,18 @@ B: Yes,  **I had dinner on the plane**
 
 A: Any problems at customs and immigration?
 B: No,  **I got through really fast**.
+
+## Referring to what was said
+
+After making a decision in a meeting, use phrases like these to review what you've said. These phrases are especially useful in business writing.
+
+- **As I mentioned** in Monday's meeting, we're going to Moscow for the conference this year!
+- **As discussed in the meeting**, there will be presentations from all departments
+
+Use useful verbs like **decide**, **choose** and **agree** to report key decisions that have been made.
+
+- **We've decided to** book three rooms
+- **We've chosen to** have presentations on the first day
+- **We agreed to** have the conference on the fifth
+
+As you can see, all these verbs can be followed by another verb with **to**.
