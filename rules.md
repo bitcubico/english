@@ -527,3 +527,15 @@ B: No, I've **never** lived in another country
 > 
 > A: Have you **ever** been to Paris?
 B: Yes, I have been to Paris.
+
+## Past continuous
+
+Use past continuous to refer to an action or event that lasted for a period of time in the past. Form past continuous with the past tense of the verb **be** and a verb **+ ing**.
+
+A: I met Elsa in Spain. I **was visiting**  my brother in Madrid. We **were eating** tapas, and she walked into the restaurant.
+B: **Were** you **hoping** to find a girlfriend?\
+A: No, I was just lucky.  **I**  really  **wasn't trying**  to find a girlfriend.
+
+Note that the past continuous tense is frequently used to introduce or give background information for a story.
+
+- So, I **was driving** in my car. Then I saw the accident
