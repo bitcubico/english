@@ -1,3 +1,4 @@
+
 # English Tips
 
 ## Proper nouns
@@ -509,3 +510,21 @@ Use useful verbs like **decide**, **choose** and **agree** to report key decisio
 - **We agreed to** have the conference on the fifth
 
 As you can see, all these verbs can be followed by another verb with **to**.
+
+## Sequencing events in a story
+
+Use expressions like these to begin a story.
+
+- **At first,** I didn't like him
+- **In the beginning,** he seemed unfriendly
+
+Use expressions like these to continue a story.
+
+- **Later,** we started talking in the break room
+- **After that,**  we had lunch a couple of times
+- **Next,** we went on a date
+
+Use expressions like these to end a story.
+
+- **Finally,** he asked me to marry him
+- **In the end,** we got married and had three children
