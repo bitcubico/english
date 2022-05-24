@@ -1,4 +1,3 @@
-
 # English Tips
 
 ## Proper nouns
@@ -528,3 +527,39 @@ Use expressions like these to end a story.
 
 - **Finally,** he asked me to marry him
 - **In the end,** we got married and had three children
+
+## Words for relationships
+
+### Personal relationships
+
+There are many different ways to describe personal relationships. **Close friends** are people you have an excellent relationship with.
+
+- Mary and I are very **close friends.**
+
+**Old friends** are people you have known for a long time.
+
+- John and I are **old friends.** I met him 20 years ago.
+
+**Buddy** is an informal word for friend. Note that it's a term used mostly by men for their male friends.
+
+- My **buddy** Harry and I went to college together.
+
+**Relatives** are people in your family, like **cousins** and **aunts**.
+
+- For New Year's Eve, all of my wife's **relatives** are coming over for a party.
+
+### Professional relationships
+
+There are also many ways to describe professional relationships. **Co-workers** and **colleagues** are people you work with. The words are synonyms - they mean the same thing.
+
+- Sarah and I are **colleagues**
+- Martin is a  **co-worker**
+
+The words **boss** and **manager** also mean the same thing, but **boss** is more informal.
+
+- Martina is my **boss**
+- My  **manager** is on vacation
+
+Use the word **acquaintance** to describe a person you know a little. This can be either a personal or professional relationship.
+
+- Antonio is an **acquaintance** of mine. I don't really know him very well
