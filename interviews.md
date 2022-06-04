@@ -60,10 +60,28 @@ When you first arrive for an interview, announce why you are there. Then thank t
 ***Interviewer***: **What do yo do in your free time?**\
 ***Candidate***: Well, I like hiking, biking, reading books, watching TV, spending time with my mom, staying home, dancing, traveling.
 
+The interviewer will ask some follow-up questions regarding your resume.
+
+***Interviewer***: I see that you got your MBA from The Wharton School.\
+***Candidate***: Yes, it was a wonderful program.
+
+***Interviewer***: I see that you're currently working at DBX Systems. Why are you thinking of leaving?\
+***Candidate***: Well, to be honest, the work isn't very challenging.
+
+When talking about your weaknesses, one strategy is to take something positive, like working too much, and turn it into a false weakness.
+
+***Interviewer***: What do you think are some of your strengths and weaknesses?\
+***Candidate***: Well, I am a very hard worker, but sometimes I work too much.
+
+If the interviewer thinks you are a promising candidate, he or she might outline the next steps or even ask you about a start date.
+
+***Interviewer***: I'd like you to talk with some other members of the team. Also, are you OK with the start date?\
+***Candidate***: That sounds great and, yes, the start date works for me. Thank you again for meeting with me.
+
 ### Leadership Questions
 
 ***Interviewer***: **Why do you want to work for this company?**\
-***Candidate***: I like this company because it is at the forefront of technology, it has quite interesting and challenging clients and projects, and its work environment seems spectacular to me.
+***Candidate***: I like this company because it's at the forefront of technology, it has quite interesting and challenging clients and projects, and its work environment seems spectacular to me.
 
 ***Interviewer***: Describe a coding situation where something didn't go as planned. **How did you fix it?**\
 ***Candidate***: At ARUS Company, I was a Teach Leader of a team of 7 members, we were assigned a project of great importance for one of our clients and with delivery dates not estimated by us and very tight in our opinion. So, As a technical lead, I first met with the client and asked him to tell me what were the most important functionalities he needed to offer to his clients, and I suggested going out with these initially to see the response of his clients and determine if it was worth implementing the features less important functionalities, fortunately, the client thought it was a good idea. By removing the various less important features, the delivery dates became feasible for the team and we were able to deliver on time.
@@ -86,7 +104,7 @@ When you first arrive for an interview, announce why you are there. Then thank t
 ***Candidate***: Yes, I know them, these are a guide that helps us develop quality software. I remember that the S means Single Responsibility, the O means open and close to changes, the L means Liskov substitution, the I means interface segregation and D means dependency inversion.
 
 ***Interviewer***: **What it's the meaning of S (Single Responsibility)?**\
-***Candidate***: Well, it's means that a class must have a single responsibility, for example if we have a class called washing machine it shouldn't have clothes dryer functionalities, although they are similar and have functionalities in common, each one has different responsibilities and it is best to keep them intact.
+***Candidate***: Well, it's means that a class must have a single responsibility, for example if we have a class called washing machine it shouldn't have clothes dryer functionalities, although they are similar and have functionalities in common, each one has different responsibilities and it's best to keep them intact.
 
 ***Interviewer***: **What it's the meaning of O (Open and close to changes)?**\
 ***Candidate***: Well, it means that the classes should be open to be extended and closed to be modified.
@@ -100,20 +118,8 @@ When you first arrive for an interview, announce why you are there. Then thank t
 ***Interviewer***: **What it's the meaning of D (Dependency inversion)?**\
 ***Candidate***: This principle tells us about the importance of reducing dependencies between modules, which is why it suggests that we inherit from abstract classes and not from concrete classes.
 
-The interviewer will ask some follow-up questions regarding your resume.
+***Interviewer***: **What it's the meaning of Polymorphism?**\
+***Candidate***: Well, it refers to the possibility of defining classes with different names and attributes or methods called the same and obtaining different behaviors.
 
-***Interviewer***: I see that you got your MBA from The Wharton School.\
-***Candidate***: Yes, it was a wonderful program.
-
-***Interviewer***: I see that you're currently working at DBX Systems. Why are you thinking of leaving?\
-***Candidate***: Well, to be honest, the work isn't very challenging.
-
-When talking about your weaknesses, one strategy is to take something positive, like working too much, and turn it into a false weakness.
-
-***Interviewer***: What do you think are some of your strengths and weaknesses?\
-***Candidate***: Well, I am a very hard worker, but sometimes I work too much.
-
-If the interviewer thinks you are a promising candidate, he or she might outline the next steps or even ask you about a start date.
-
-***Interviewer***: I'd like you to talk with some other members of the team. Also, are you OK with the start date?\
-***Candidate***: That sounds great and, yes, the start date works for me. Thank you again for meeting with me.
+***Interviewer***: **What is the difference between public, protected and internal access modifiers?**\
+***Candidate***: Well, the public modifier is used to specify that access is not restricted, so the property or method with this modifier can be used from any instance of the class, protected is used to specify that access is limited to types derived from the containing class, so this modifier restricts the use of the property or method to classes that inherit from it. And internal is used to specify that access is limited to the current assembly, the type or member can be accessed by any code in the same assembly but not from another assembly.
